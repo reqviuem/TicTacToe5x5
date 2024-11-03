@@ -1,0 +1,6 @@
+#ifndef CPLUSPLUS_LIBRARY_H
+#define CPLUSPLUS_LIBRARY_H
+
+void hello();
+
+#endif //CPLUSPLUS_LIBRARY_H
